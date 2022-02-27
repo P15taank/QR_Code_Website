@@ -11,7 +11,7 @@ body {
     margin: auto;
     margin-top: 150px;
     padding: 15px;
-    border-radius: 30px;
+    border-radius: 15px;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
