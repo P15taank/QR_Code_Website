@@ -16,7 +16,7 @@ I built this QR Code page using sementic HTML and CSS. I have used image to show
 ### Built with
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexb
+- Flexbox
 
 ## Author
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
