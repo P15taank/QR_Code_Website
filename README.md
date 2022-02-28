@@ -19,4 +19,4 @@ I built this QR Code page using sementic HTML and CSS. I have used image to show
 - Flexbox
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - @p15taank (https://www.frontendmentor.io/profile/p15taank)
